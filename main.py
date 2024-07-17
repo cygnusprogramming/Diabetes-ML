@@ -15,7 +15,7 @@ from streamlit_elements import elements, mui, html
 sidebar = st.sidebar
 
 diabetes_model = pickle.load(open('diabetes_model.pkl', 'rb'))
-heart_model= pickle.load(open('heart_modeL.pkl', 'rb'))
+heart_model= pickle.load(open('heart_model.pkl', 'rb'))
 
 
 
