@@ -4,3 +4,4 @@ pandas
 numpy
 scikit-learn
 streamlit_option_menu
+streamlit_elements
